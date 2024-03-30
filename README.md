@@ -1,0 +1,1 @@
+Repository with implementations of algorithms seen in the Algorithms and Graphs discipline.
